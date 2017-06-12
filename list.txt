@@ -43,6 +43,7 @@ bike
 bikini
 binoculars
 bird
+birthday+cake
 blanket
 blocks
 blood
@@ -431,6 +432,7 @@ spaghetti
 speaker
 speedboat
 spider
+spider+web
 spikes
 sponge
 spoon
@@ -500,6 +502,7 @@ troll+face
 truck
 trumpet
 turtle
+tv
 twitter
 umbrella
 unicorn
