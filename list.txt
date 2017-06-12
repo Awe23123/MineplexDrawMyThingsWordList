@@ -158,6 +158,7 @@ egg
 eggs
 elbow
 elephant
+eraser
 elevator
 emerald
 emeralds
