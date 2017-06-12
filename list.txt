@@ -44,6 +44,7 @@ bikini
 binoculars
 bird
 blanket
+blocks
 blood
 boat
 bomb
@@ -97,6 +98,7 @@ chestplate
 chicken
 children
 chimney
+chin
 chocolate
 christmas+tree
 cigar
@@ -158,11 +160,11 @@ egg
 eggs
 elbow
 elephant
-eraser
 elevator
 emerald
 emeralds
 ender+dragon
+eraser
 erupt
 explosion
 eye
@@ -237,6 +239,7 @@ iceberg
 igloo
 ipod
 iron+ore
+jacket
 jam
 james+bond
 jellyfish
@@ -260,6 +263,7 @@ letter
 letterbox
 light
 lightning
+lightsaber
 lion
 lizard
 llama
@@ -356,12 +360,10 @@ pull
 pumpkin
 pumpkin+pie
 punch
+puppet
 puppy
 purse
 push
-puppet
-chin
-jacket
 pyramid
 queen
 quick
