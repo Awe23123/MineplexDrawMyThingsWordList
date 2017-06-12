@@ -35,6 +35,7 @@ beans
 bear
 beard
 bed
+beehive
 beer
 belly+button
 bench
