@@ -517,6 +517,7 @@ unicorn
 united+states
 uppercut
 usb
+vest
 video+game
 violin
 volcano
