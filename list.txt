@@ -256,6 +256,7 @@ keyboard
 king
 kirby
 kiss
+kite
 kitten
 lake
 lamp
@@ -417,6 +418,7 @@ skull
 skunk
 skype
 sleeping
+slide
 slime
 slippers
 sloth
