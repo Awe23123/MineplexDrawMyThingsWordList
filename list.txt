@@ -130,6 +130,7 @@ creeper
 crowd
 crown
 crying
+cup
 cupcake
 cyclop
 cyclops
