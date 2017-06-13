@@ -22,7 +22,6 @@ bagel
 baggage
 balloon
 balloons
-bicycle
 bamboo
 bank
 barbie
@@ -41,6 +40,7 @@ beer
 belly+button
 bench
 berry
+bicycle
 bike
 bikini
 binoculars
@@ -426,6 +426,7 @@ snake
 snorlax
 snowflake
 snowman
+soap
 sock
 soda
 soup
