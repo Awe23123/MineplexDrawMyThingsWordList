@@ -219,6 +219,7 @@ guard
 guitar
 gun
 hair
+hair+dryer
 hammer
 hamster
 hand
@@ -546,3 +547,4 @@ youtube
 zebra
 zipper
 zombie
+zombie+pigman
