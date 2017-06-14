@@ -1,4 +1,5 @@
 acorn
+alarm+clock
 alcohol
 alien
 alligator
@@ -109,9 +110,9 @@ christmas+tree
 cigar
 cinema
 clock
-clock
 cloud
 clown
+coat
 coconut
 coffee
 cold
@@ -328,6 +329,7 @@ pancake
 panda
 pants
 paper
+park
 party
 peasant
 pen
@@ -390,6 +392,7 @@ ring
 river
 robot
 roll
+roof
 rope
 rose
 royal
