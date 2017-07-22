@@ -404,6 +404,7 @@ salsa
 salt+and+pepper
 sandwich
 santa+hat
+scale
 scarf
 school
 screw
